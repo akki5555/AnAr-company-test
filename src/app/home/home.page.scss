@@ -1,0 +1,19 @@
+
+ion-item.completed {
+  text-decoration: line-through;
+}
+
+ion-item{
+  margin: 5px;
+  border: 1px solid gray;
+}
+
+ion-checkbox {
+  --size: 20px;
+  --background-checked: #428cff;
+}
+
+ion-checkbox::part(container) {
+  border-radius: 6px;
+  border: 2px solid #428cff;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "AnarTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
